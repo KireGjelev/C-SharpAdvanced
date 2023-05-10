@@ -1,0 +1,12 @@
+C:\Users\Kire\Desktop\ALoOoOoO\Task\Task.Domain\bin\Debug\net6.0\Task.Domain.deps.json
+C:\Users\Kire\Desktop\ALoOoOoO\Task\Task.Domain\bin\Debug\net6.0\Task.Domain.dll
+C:\Users\Kire\Desktop\ALoOoOoO\Task\Task.Domain\bin\Debug\net6.0\Task.Domain.pdb
+C:\Users\Kire\Desktop\ALoOoOoO\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.csproj.AssemblyReference.cache
+C:\Users\Kire\Desktop\ALoOoOoO\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kire\Desktop\ALoOoOoO\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.AssemblyInfoInputs.cache
+C:\Users\Kire\Desktop\ALoOoOoO\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.AssemblyInfo.cs
+C:\Users\Kire\Desktop\ALoOoOoO\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kire\Desktop\ALoOoOoO\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.dll
+C:\Users\Kire\Desktop\ALoOoOoO\Task\Task.Domain\obj\Debug\net6.0\refint\Task.Domain.dll
+C:\Users\Kire\Desktop\ALoOoOoO\Task\Task.Domain\obj\Debug\net6.0\Task.Domain.pdb
+C:\Users\Kire\Desktop\ALoOoOoO\Task\Task.Domain\obj\Debug\net6.0\ref\Task.Domain.dll
